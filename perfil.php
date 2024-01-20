@@ -93,7 +93,7 @@
                         echo "</div>";
                     }else{
         
-                        
+                         
                     
                         echo "<h2>Perfil:</h2>";
                         $consulta="SELECT * FROM perfiles WHERE nick=?";

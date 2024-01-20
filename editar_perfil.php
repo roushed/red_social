@@ -32,7 +32,7 @@
                     }else{
                         echo "Error del formato de la iamgen";
                     }
-                }
+                } 
             }else{
                 
                 $consulta="UPDATE perfiles SET nombre=?, apellidos=?, fecha_nacimiento=?, ciudad=?, pais=?, url=?, descripcion=? WHERE nick='".$_SESSION['nombre']."'";

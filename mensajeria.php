@@ -20,7 +20,7 @@
 
         <div class="titulo">
             RED SOCIAL SCARLATTI
-
+ 
         </div>
         <div class="secciones">
         <?php include "./panelcito.php" ?>

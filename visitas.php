@@ -12,7 +12,7 @@
  
         ?>
        
-   
+    
 </head>
 <body>
     <div class="container">
@@ -25,7 +25,7 @@
         <?php include "./panelcito.php" ?>
 
         </div>
-
+ 
         <div class="contenido">
         <h2>Últimas visitas:</h2>
             <div class="panel_m">

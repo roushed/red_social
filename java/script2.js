@@ -11,7 +11,7 @@ document.querySelectorAll('.like').forEach(obj => obj.addEventListener('click', 
         document.getElementById(obj.children[0].id).src="./img/mano2.png";
         contador++;
     }
-    
+     
 
 
 }));

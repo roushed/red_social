@@ -30,7 +30,7 @@
             $consulta2="INSERT INTO post_usuarios VALUES(?, ?, ?,0)";
             inserta_Datos($consulta2, array($ult_id, $_POST['msg_destino'], $_SESSION['nombre']));
 
-            
+             
         }
         
 

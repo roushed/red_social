@@ -25,7 +25,7 @@
             header('Location:./novedades.php?#ancla-'.$_GET['idislike']);
         }
         
-            
+             
     ?>
        
    

@@ -31,7 +31,7 @@
             $num_reg=contar_Registros($consulta2, array($_SESSION['nombre']));
             if($num_reg > 0){
 
-               
+                
                 $datos.= " | <a href='./pendiente_solicitud_c.php'> (+$num_reg Solicitud)</a>";
             }
 

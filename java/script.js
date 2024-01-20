@@ -7,7 +7,7 @@ window.addEventListener("load", function(event) {
 
         document.getElementById("cuadro_Fechas").style.display="block";
 
-
+ 
     });
 
     document.getElementById('x').addEventListener('click', ()=>{

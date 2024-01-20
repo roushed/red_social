@@ -14,7 +14,7 @@ const mensaje_Confirmar=(obj)=>{
 
         window.location.href=`./mensaje_priv.php?id=${lista[0]}&nick=${lista[1]}`;
     }
-
+ 
 
 }
 

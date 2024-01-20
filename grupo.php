@@ -59,7 +59,7 @@
             inserta_Datos($consulta, array($_SESSION['nombre'], $_SESSION['grupo']));
             header('Location:./grupo.php?grupo='.$_SESSION['grupo']);
             
-
+ 
         }
 
         if(isset($_GET['idlike'])){

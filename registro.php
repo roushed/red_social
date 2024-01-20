@@ -71,7 +71,7 @@
             
                             }
                        
-                        
+                         
                         }else{
                             echo "Ya se encuentra registrado este usuario";
                         }

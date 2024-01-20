@@ -23,7 +23,7 @@
             $consulta="DELETE FROM usuarios_grupo WHERE nick_contacto=? AND nombreG=?";
             //Elimina
             inserta_Datos($consulta, array($_SESSION['nombre'], $_GET['grupos']));
-            
+             
 
         }
        

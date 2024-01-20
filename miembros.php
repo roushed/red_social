@@ -25,7 +25,7 @@
         <?php include "./panelcito.php" ?>
 
         </div>
-
+ 
         <div class="contenido">
         <h2>Lista de Miembros:</h2>
             <div class="panel_m">

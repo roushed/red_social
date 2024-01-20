@@ -17,7 +17,7 @@
             echo "Has realizado la solicitud al grupo";
 
         }
-
+ 
         if(isset($_GET['grupos'])){
 
             $consulta="DELETE FROM usuarios_grupo WHERE nick_contacto=? AND nombreG=?";

@@ -14,7 +14,7 @@
     <?php
 
 try{     
-                   
+                    
     $con=Conectar();
     $stmt=$con->prepare("SELECT * FROM post p INNER JOIN post_grupos pg ON p.idpost = pg.idpost  WHERE pg.nick_envia=? AND pg.estado=2 AND p.idpostR IS NULL ORDER BY p.fecha DESC, p.idpost DESC");
     $stmt->bindValue(1, $_SESSION['nombre']);

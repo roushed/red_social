@@ -80,7 +80,7 @@ if(isset($_GET['grupo'])){
 
 ?>
            
-
+ 
            
             
             </div>

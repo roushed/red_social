@@ -22,7 +22,7 @@
             <?php include "./panelcito.php" ?>
 
         </div>
-
+ 
         <div class="contenido">
             <div class="panel">
                 <div class="fila">

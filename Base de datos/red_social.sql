@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `contactos`
 --
-
+ 
 CREATE TABLE `contactos` (
   `nick` varchar(40) NOT NULL,
   `nick_contacto` varchar(40) NOT NULL,

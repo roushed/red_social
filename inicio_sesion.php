@@ -22,7 +22,7 @@
     include "./f_modular.php";
     if(isset($_POST['inicio'])){
 
-      
+       
         //session_start();
                 if(!isset($_SESSION['autentificar'])){
                     if(!empty($_POST['usuario']) && !empty($_POST['contrasena'])){

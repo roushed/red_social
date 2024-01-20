@@ -25,7 +25,7 @@
              
                 imprime_perfil_bd($consulta, array($_SESSION['nombre'], "%".$_POST['buscar']."%"), array("texto","nick_envia", "fecha"), array("text", "text", "date"));
               
-            }
+            } 
         ?>
 </body>
 </html>
