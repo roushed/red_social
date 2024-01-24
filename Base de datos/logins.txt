@@ -1,2 +1,5 @@
+Página principal:
+inicio_sesion.php
+
 User: albert44  password: albert44
 User: peterking password: peterking
